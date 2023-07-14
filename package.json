@@ -1,0 +1,12 @@
+{
+  "name": "openshiftnode",
+  "version": "1.0.0",
+  "description": "Node.js Hello World App to be deployed in OpenShift",
+  "main": "NodeHelloWorld.js",
+  "scripts": {
+    "start": "node NodeHelloWorld.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aniruddha.c",
+  "license": "ISC"
+}
